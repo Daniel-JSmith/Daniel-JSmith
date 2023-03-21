@@ -2,6 +2,8 @@
 
 Software engineer interested in rendering, C++, game development
 
+https://www.linkedin.com/in/daniel-jsmith/
+
 ## Education
 
 BS of Computer Science and Software Engineering - University of Washington, Bothell
